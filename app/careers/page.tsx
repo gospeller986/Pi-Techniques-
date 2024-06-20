@@ -16,7 +16,7 @@ export default function page() {
            <Accordion />
         </div>
         <div className='flex flex-col justify-center text-center items-center mt-20 px-5  md:px-0'>
-           <h1 className='text-white mb-3'>You don't have the above skills.....but, you think you're the perfect fit for Pi come by and talk to us or send us your resume.</h1>
+           <h1 className='text-white mb-3'>You dont have the above skills.....but, you think you are the perfect fit for Pi come by and talk to us or send us your resume.</h1>
            <h1 className='text-white'>Kindly e-mail your resume to 
             <a className='text-orange-500 hover:underline' href="jobs@pitechniques.com">jobs@pitechniques.com</a>
              and mention the Job Code in the subject line. e.g. Job Code: PI006
