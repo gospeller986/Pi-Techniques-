@@ -65,7 +65,7 @@ export function TeamGrid() {
                 <div className="h-[auto] w-full  items-center justify-center grid  grid-cols-1 md:grid-cols-4 container  pt-20  overflow-hidden  ">
 
                     {data.map((item, index) =>
-                        <div className="my-10 " >
+                        <div className="my-10 " key={index} >
                             <PinContainer
                                 title={item.title}
                                 href="https://twitter.com/mannupaaji"
