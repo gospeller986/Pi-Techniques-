@@ -16,7 +16,7 @@ export default function page() {
                     <br />
                     Most organizations do not give importance to network and cabling infrastructure. One of the most critical part of any network are the cables which carry data across the your organization. Pi Techniques gets involved right from the construction stage of your premises to provide a robust network plan with industry standard structured cabling, network racks and I/O patching.
                     <br/>
-                    Well, if you didn't involve us from beginning its never too late we come to save the situation. When we are done you never have to touch your network again.
+                    Well, if you didnt involve us from beginning its never too late we come to save the situation. When we are done you never have to touch your network again.
                 </h1>
                 <h1 className=' text-white text-justify ' >
                     <span className='font-bold text-orange-500'>Firewalls and Security
@@ -28,7 +28,7 @@ export default function page() {
                     <span className='font-bold text-orange-500'>Hardware
                     </span>
                     <br />
-                    There is an ocean of hardware out there. We help you select the right product, right price and the right vendor. From servers, NAS (Network Storages) to Laptops and netbooks. Choose the right brand from DELL, APPLE or even Assembled computers.
+                    There is an ocean of hardware out there. We help you select the right product, right price and the right vendor. From servers, NAS Network Storages to Laptops and netbooks. Choose the right brand from DELL, APPLE or even Assembled computers.
                 </h1>
                 <h1 className=' text-white text-justify ' >
                     <span className='font-bold text-orange-500'>Software solutions and the correct tools
